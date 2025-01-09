@@ -7,7 +7,7 @@
 - **Cryptography**
 - **Cybersecurity**
 - **OSINT**
-- **Software Deveklopment**
+- **Software Development**
 - **Machine Learning**
 - **Artifical Intelligence**
 ---
