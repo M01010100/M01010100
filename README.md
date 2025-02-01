@@ -11,7 +11,7 @@
 - **Machine Learning**
 - **Artifical Intelligence**
 ---
-## Currently Pursuing my **Masters** in **Computer Science**:floppy_disk: from SUNY Polytechnic Institute. 
+## Currently Pursuing my 🎓**Masters** in **Computer Science** from SUNY Polytechnic Institute. 
 
 :mortar_board: Bachelors in **Network Computer Security**.
 ---
