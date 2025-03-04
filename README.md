@@ -11,14 +11,15 @@
 - **Machine Learning**
 - **Artifical Intelligence**
 ---
-## Currently Pursuing my 🎓**Masters** in **Cybersecurity** from SUNY Polytechnic Institute. 
+## Currently Pursuing my 🎓**Masters** in **Cybersecurity** at SUNY Polytechnic Institute. 
 
 :mortar_board: Bachelors in **Network Computer Security**.
 ---
 
 ## :speech_balloon: Let's Connect 
 - [Linkedin](https://www.linkedin.com/in/matthew-townsend-59a1b126b/)
-- [Website](https://m01010100.github.io/)
+- [Portfolio](https://m01010100.github.io/)
+- [TryHackMe](https://tryhackme.com/p/Matt.01010100)
 ### :hammer_and_wrench: Languages and Tools :
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
