@@ -11,9 +11,9 @@
 - **Machine Learning**
 - **Artifical Intelligence**
 ---
-## Currently Pursuing my 🎓**Masters** in **Cybersecurity** at SUNY Polytechnic Institute. 
+## Currently Pursuing my 🎓**Masters** in **Computer Science** at SUNY Polytechnic Institute. 
 
-:mortar_board: Bachelors in **Network Computer Security**.
+:mortar_board: Bachelors in **Network Computer Security**, Minor in Computer Science.
 ---
 
 ## :speech_balloon: Let's Connect 
