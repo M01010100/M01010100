@@ -1,13 +1,12 @@
-# Hello :wave:, Im Matthew Townsend
+# Hello :wave:, Im Matthew Townsend 
 
-##  Avid learner and hacker
+## Researching what I find interesting, mainly math and programming. 
 
 **My interests and learning include:**
 
 - **Cryptography**
 - **Cybersecurity**
-- **OSINT**
-- **Software Development**
+- **Networks**
 - **Machine Learning**
 - **Artifical Intelligence**
 ---
