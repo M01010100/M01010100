@@ -10,6 +10,7 @@ PhD Student at Binghamton
 ---
 
 Master's in **Computer Science**
+
 Bachelor's in **Network Computer Security**, Minor in Computer Science.
 
 ---
