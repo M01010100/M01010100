@@ -1,12 +1,11 @@
 # Matthew Townsend 
 PhD Student at Binghamton
 
-## Research Topics 
+## Research Interests
 - **Quantum Networks**
 - **Cryptography**
 - **Cybersecurity**
 - **Optimization**
-- **Political Science**
 ---
 
 Master's in **Computer Science**
