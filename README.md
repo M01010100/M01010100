@@ -7,6 +7,7 @@ PhD Student at Binghamton
 - **Cybersecurity**
 - **Optimization**
 ---
+Previous Education
 
 Master's in **Computer Science**
 
